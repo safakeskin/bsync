@@ -1,0 +1,12 @@
+{
+  "name": "B-Sync Browser Sync Utility",
+  "description": "An extension to sync different browsers bookmarks & history",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icons/bsync-128x128.png"
+  },
+  "browser_action": {
+    "default_popup": "popup/index.html"
+  }
+}
